@@ -1,2 +1,4 @@
 # hello-world
-Tial Using Git Using Hello-World Sample
+Trial Using Git Using Hello-World Sample.
+
+This is the first time I Seriuously using Git
